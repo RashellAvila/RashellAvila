@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @RashellAvila
 - 👀 I’m interested in ... SEO
 - 🌱 I’m currently learning ... SEO & MKT
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+
 
 <!---
 RashellAvila/RashellAvila is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
